@@ -1,0 +1,6 @@
+PosX,PosY,PosZ,ZMode,Begin,End,Sections,StepSize,CycleCount,CycleTime,WaitTime,ValidStack,PositionIdentifier,FileNameBase,MartixIdentifier,TileScanIdentifier,AFCOffset,Valid,SuperZMode,ZPosition
+12794019,7082547,0,2,566646,566646,1,0,1,0,0,0,Position1,,0,0,-2,1,1,0.0021532548
+12735922,5052280,0,2,571151,571151,1,0,1,0,0,0,Position2,,0,0,-2,1,1,0.0021703738
+11824135,6035937,0,2,568150,568150,1,0,1,0,0,0,Position3,,0,0,-2,1,1,0.00215897
+12773577,6035937,0,2,569622,569622,1,0,1,0,0,0,Position4,,0,0,-2,1,1,0.0021645636
+13913634,6011630,0,2,570403,570403,1,0,1,0,0,0,Position5,,0,0,-2,1,1,0.0021675314

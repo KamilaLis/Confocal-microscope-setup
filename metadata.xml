@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<metadata>
+<objectiveMagnification>10</objectiveMagnification>
+<zoom>1.5</zoom>
+<resolutionX unit="px">2048</resolutionX>
+<resolutionY unit="px">2048</resolutionY>
+<pointsPerPixelX>100</pointsPerPixelX>
+<pointsPerPixelY>100</pointsPerPixelY>
+<imageSizeX units="um">1033.33</imageSizeX>
+<imageSizeY units="um">1033.33</imageSizeY>
+<PosXUnit>pt</PosXUnit>
+<PosYUnit>pt</PosYUnit>
+</metadata>
